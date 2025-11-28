@@ -50,4 +50,4 @@
 <br clear="both">
 
 <!-- Animação da cobrinha rastreando commits -->
-<img src="https://raw.githubusercontent.com/anoyf/anoyf/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
