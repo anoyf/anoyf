@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 👋 Eai! Sou Jhonata Soares — Front-End Developer & Web Designer
 
 
