@@ -1,0 +1,7 @@
+<svg width="100%" height="100%" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+ <style>
+   .snake { fill: none; stroke: #39ff14; stroke-width: 3; stroke-dasharray: 5 10; animation: dash 5s linear infinite; }
+   @keyframes dash { to { stroke-dashoffset: -200; } }
+ </style>
+ <path class="snake" d="M0 150 Q300 50 600 150 T1200 150" />
+</svg>
